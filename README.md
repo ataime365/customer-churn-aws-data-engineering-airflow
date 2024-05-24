@@ -1,9 +1,10 @@
 
-### End-to-End Data Engineering project on AWS.
-(S3, Glue, Glue crawlers, Athena, PowerBI, Redshift Serverless , Airflow)
+## End-to-End Data Engineering/ETL project on AWS.
+(S3, Glue, Glue crawlers, Athena, PowerBI, Redshift Serverless , Airflow, Ec2)
 
-The Orchestration tool used was Airflow which was running on an Ubuntu 22.04 EC2 instance (t2.medium - 2vcpu & 4GB RAM)
+The Orchestration tool used was Airflow which is running on an Ubuntu 22.04 EC2 instance (t2.medium - 2vcpu & 4GB RAM).
 
+The Aim of this project is to build an ETL pipeline which will Extract customer data , Transform the data and make the data available in a Redshift data warehouse, to enable the data to be easily visaulized by end users or Data Analyst
 
 <img src = 'images/flow_diagram.jpg' width='800px' />
 
