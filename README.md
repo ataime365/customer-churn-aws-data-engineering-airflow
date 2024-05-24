@@ -1,5 +1,7 @@
 
-This is an End-to-End Data Engineering project on AWS. 
+### End-to-End Data Engineering project on AWS.
+(S3, Glue, Glue crawlers, Athena, PowerBI, Redshift Serverless , Airflow)
+
 The Orchestration tool used was Airflow which was running on an Ubuntu 22.04 EC2 instance (t2.medium - 2vcpu & 4GB RAM)
 
 
