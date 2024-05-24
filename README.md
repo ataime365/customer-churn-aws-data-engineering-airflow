@@ -6,6 +6,7 @@ The Orchestration tool used was Airflow which is running on an Ubuntu 22.04 EC2 
 
 The Aim of this project is to build an ETL pipeline which will Extract customer data , Transform the data and make the data available in a Redshift data warehouse, to enable the data to be easily visaulized by end users or Data Analyst
 
+### Below is the Data Flow diagram
 <img src = 'images/flow_diagram.jpg' width='800px' />
 
 The tools used includes: 
