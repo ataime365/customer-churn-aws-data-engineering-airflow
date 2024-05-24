@@ -27,6 +27,7 @@ Keynotes:
 - Connect PowerBI to redshift cluster using the endpoint url, username(admin) and password
 - Open 5439 port on the security group of the Redshift Serverless cluster, to enable powerBI to get access
 
-Below is the Visualized data using PowerBI
+
+### Below is the Visualized data using PowerBI
 
 <img src = 'images/Data_visualization.png' width='800px' />
